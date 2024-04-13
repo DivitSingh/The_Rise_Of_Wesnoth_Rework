@@ -15,6 +15,7 @@ Lead Prince Haldric through the destruction of the Green Isle and across the Oce
 
 ## Key Stakeholders
 - Yumi (Nemaara)
+- [TJ Khalid](https://github.com/knyghtmare)
 - Dalas
 
 ## MVP Target
