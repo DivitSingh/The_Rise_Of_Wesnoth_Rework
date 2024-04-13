@@ -7,8 +7,11 @@ Lead Prince Haldric through the destruction of the Green Isle and across the Oce
 - **Scenario Count**: 2/11 (Tentative)
 - **Difficulty Level**: Hard
 
-## Team
+## Developers
 [Divit Singh (Gweddeoran)](https://github.com/Gweddeoran)
+
+## Playtesters
+[Mirion147](https://github.com/Mirion147)
 
 ## Key Stakeholders
 - Yumi (Nemaara)
