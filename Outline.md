@@ -12,10 +12,10 @@ This isn’t really a choice since the former is easier and also more rewarding 
 I also find it odd that Minister Edren is living alone right in the middle of a swamp with dangerous undead and cultists crawling about.
 ### The Oldwood
 Important to lore, and we can have Minister Edren living here instead, as one of the few human ‘tree-friends’ and can also be the reason why the Wose are not immediately hostile to Haldric (apart from needing assistance). Perhaps a potential connection between Edren and Eldaric (Haldric’s father)?
-### Temple in the Deep (Removed)
+### Temple in the Deep (Removed - Tentative)
 It feels odd to have 1 scenario for the Book and 1 for the Ruby. Might be better if the Wose hand over the Ruby due to Edren’s influence and the fact that Haldric saved them. Lich-Lord Lenvan doesn’t really do much other than being a generic ‘lich in a cave’.
-### Clearwater Port (Removed)
-See ‘A Final Spring’.
+### Clearwater Port (Tentative)
+Assist Aethyr in taking out 2 Naga enemy leaders. Naga attempt to damage the port to prevent travel to Fallen Lich Point.
 ### Fallen Lich Point + Sewer of Southbay (Merged)
 Instead of having Orcs attack us yet again in ‘Fallen Lich Point’, why not have the 2 Arch Mages from ‘Sewer of Southbay’ be part of the Wesfolk faction still allied with Jevyan, attacking us with a mix of Loyalists and Outlaws as we attempt to un-petrify Lich-Lord Caror and get the book about the Ruby of Fire?
 This way, both scenarios can be combined into one, while also expanding on Wesfolk politics- it makes sense that not every Wesfolk would be like Jessene and some may want to join Jevyan even he is untrustworthy.
