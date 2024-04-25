@@ -11,7 +11,7 @@ Lead Prince Haldric through the destruction of the Green Isle and across the Oce
 [Divit Singh (Gweddeoran)](https://github.com/Gweddeoran)
 
 ## Playtesters
-- amakri
+amakri
 
 ## Key Stakeholders
 - Yumi (Nemaara)
