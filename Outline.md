@@ -12,7 +12,7 @@ Haldric must flee Stormvale as he is assailed by the Orcish hordes. He shall cho
 - 'Midlands': Defeat the Wesfolk allied with Jevyan that occupy the plains. Sir Ladoc, a loyal Dragoon equipped with an Arcane Amulet, joins Haldric's team after the battle is completed.
 ### The Oldwood (Cutscene)
 Haldric meets the Wose of the woods. They are joined by Rogue Magi that formerly served Lich-Lord Jevyan.
-The battle with orcs is removed. This is purely a cutscene now.
+The battle with Orcs is removed. This is purely a cutscene now.
 ### Temple in the Deep (Improved)
 Waves of Undead summoned by the weakened Lich-Lord Lenvan (due to Ruby influence) assail Haldric's forces. Some puzzles must be solved, and the lich defeated, in order to obtain the Ruby of Fire.
 ### Clearwater Port (Changed)
