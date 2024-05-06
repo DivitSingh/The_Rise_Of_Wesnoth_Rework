@@ -3,8 +3,8 @@
 A rework of **The Battle for Wesnoth**'s 'The Rise of Wesnoth' campaign.
 
 ## Campaign Description
-Lead Prince Haldric through the destruction of the Green Isle and across the Ocean to establish the very kingdom of Wesnoth itself. The confrontation with Lich-Lord Jevyan awaits...
-- **Scenario Count**: 2/11 (Tentative)
+The reckless actions of the heir to Southbay have created a crisis, the scale of which the inhabitants of the Green Isle could not fathom in even their worst nightmares. Lead Prince Haldric of Stormvale as he defends his people from the wrath of the Wesfolk Lich-Lords and previously unknown monsters they have unleashed upon the isle.
+- **Scenario Count**: 4/11 (Tentative)
 - **Difficulty Level**: Hard
 
 ## Developers
