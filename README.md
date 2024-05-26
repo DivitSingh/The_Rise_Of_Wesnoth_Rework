@@ -7,10 +7,10 @@ The reckless actions of the heir to Southbay have created a crisis, the scale of
 - **Scenario Count**: 4/11 (Tentative)
 - **Difficulty Level**: Hard
 
-## Developers
+## Developer
 [Divit Singh (Gweddeoran)](https://github.com/Gweddeoran)
 
-## Playtesters
+## Feedback and Playtesting
 [amakri](https://github.com/amakriLexa04)
 
 ## Key Stakeholders
